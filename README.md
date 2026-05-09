@@ -203,3 +203,22 @@ If you find this useful:
 - ⭐ Star the repository on GitHub
 - 🔗 Share it with fellow Laravel, Ionic + Angular, WordPress, WooCommerce and Mobile App Developers
 - 💡 Contribute with feedback or pull requests
+
+
+## Screenshots
+
+### Super Admin - Users
+
+![Super Admin Users](screenshots/12-SA-Users-HireDesk-Laravel.png)
+
+### Super Admin - Roles
+
+![Super Admin Roles](screenshots/13-SA-Roles-HireDesk-Laravel.png)
+
+### Super Admin - Edit Role
+
+![Super Admin Edit Role](screenshots/14-SA-Edit-Role-HireDesk-Laravel.png)
+
+### Super Admin - Permissions
+
+![Super Admin Permissions](screenshots/15-SA-Permissions-HireDesk-Laravel.png)

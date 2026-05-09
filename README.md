@@ -119,7 +119,7 @@ https://github.com/spatie/laravel-permission
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/laravel-spatie-role-permission.git
+git clone https://github.com/hasancse06/laravel-spatie-role-permission.git
 ```
 
 Go to project directory:
